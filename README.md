@@ -28,7 +28,7 @@ The workflow is a step-by-step guide covering the entire process from raw sequen
 
 - Software packages: FastQC, cutadapt, Bowtie2, MACS, SAMtools, IGV, and MEME
 
-- Reference genome for alignment (Ensembl)
+- Reference genome for alignment (mm9 - NCBI37)
 
 ## Analysis Summary
 This analysis aims to show that Kmt5a controls hepatic metabolic pathways by facilitating RNA Pol II release from promoter-proximal regions. The ChIP-seq data will provide evidence of Kmt5a binding at specific genomic locations. The downstream analysis will connect these binding events to relevant genes and pathways, suggesting a mechanism by which Kmt5a influences gene expression by affecting the pausing and release of RNA Polymerase II.
