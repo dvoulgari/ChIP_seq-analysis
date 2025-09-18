@@ -12,7 +12,7 @@ The workflow is a step-by-step guide covering the entire process from raw sequen
 
 - Read Trimming and Filtering (cutadapt, minion): Removal of sequencing adapters and low-quality bases from the raw reads to ensure clean data for alignment.
 
-- Alignment (Bowtie2): Mapping the high-quality reads to a reference genome (e.g., mouse or human, depending on the organism) to determine their genomic location.
+- Alignment (Bowtie2): Mapping the high-quality reads to a reference genome to determine their genomic location.
 
 - Peak Calling (MACS): Identification of genomic regions where the Kmt5a protein is bound. This tool statistically enriches for signal over a control sample to define "peaks."
 
